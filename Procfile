@@ -1,1 +1,1 @@
-rspec: bundle exec rspec
+rspec: cd another-app && bundle exec rspec
